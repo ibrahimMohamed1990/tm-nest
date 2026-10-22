@@ -1,6 +1,6 @@
 # Task Manager API (NestJS + TypeORM + MySQL)
 
-مشروع تعليمي يغطي أغلب مفاهيم NestJS: Modules, Controllers, Providers (DI), DTO + ValidationPipe,
+ NestJS: Modules, Controllers, Providers (DI), DTO + ValidationPipe,
 Guards, Custom Decorators, Middleware, Interceptors, Exception Filters, Pipes, TypeORM, JWT, Swagger, Testing.
 
 ## التشغيل
